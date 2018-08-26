@@ -13,11 +13,11 @@ def speak_to_grandma(phrase)
 
 # NO, NOT SINCE 1938!
   elsif phrase == "Hi!"
-    return "HUH?! SPEAK UP SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
   elsif phrase == "WHAT DID YOU EAT TODAY?"
-    return "NO, NOT SICE 1938!"
+    return "NO, NOT SINCE 1938!"
 
   elsif phrase == "WHAT?"
     return "NO, NOT SINCE 1938!"
